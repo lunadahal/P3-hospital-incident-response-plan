@@ -38,3 +38,6 @@ Vulnerability scanning, password penetration testing, incident response assessme
 - Outlined response and containment steps
 - Created recovery procedures
 - Planned post-incident lessons learned
+
+----
+Full project reports , requirement and solutions/evidence files are available in the folder.
