@@ -6,38 +6,31 @@ Vulnerability scanning, password penetration testing, incident response assessme
 
 ## Project Overview
 
-**Scenario**: Hospital X faces ransomware threat  
-**Attack Vector**: Phishing email with malicious attachment  
-**Assignment**: Develop incident response plan and vulnerability assessment  
+**Scenario**: Ransomware threat to hospital log management systems  
+**Assignment**: Build and document incident response plan  
 
 
 ---
+
 ## What I Did
 
-### 1. Threat Research & Analysis
-- Researched ransomware threats targeting healthcare
-- Analyzed attack patterns from similar incidents
-- Developed threat actor profile
-- Documented attack motivations and tactics
+- Researched ransomware attack methods and threat actors
+- Analyzed patient-data exposure and technical vulnerabilities
+- Performed vulnerability scans and password audits
+- Created and documented IR workflow, detection, and evidence preservation
+- Outlined incident containment, recovery steps, and post-mortem procedures
 
-### 2. Vulnerability Assessment
-- Performed vulnerability scanning
-- Identified critical security gaps
-- Assessed exposure to ransomware attack vectors
-- Prioritized remediation requirements
+---
 
-### 3. Password & Access Testing
-- Conducted penetration testing on passwords
-- Identified weak authentication mechanisms
-- Documented access control gaps
-- Recommended authentication improvements
+## Skills Demonstrated
 
-### 4. Incident Response Planning
-- Developed detection procedures
-- Documented investigation workflow
-- Outlined response and containment steps
-- Created recovery procedures
-- Planned post-incident lessons learned
+✅ Threat and incident analysis  
+✅ Vulnerability and password scanning  
+✅ Response workflow documentation  
+✅ Forensic evidence handling  
+✅ Technical remediation  
+
 
 ----
+
 Full project reports , requirement and solutions/evidence files are available in the folder.
