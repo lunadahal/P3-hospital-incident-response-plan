@@ -1,5 +1,5 @@
 # P3-hospital-incident-response-plan
-Vulnerability scanning, password penetration testing, incident response assessment, and action planning for healthcare organization. Includes detection, investigation, evidence preservation, and procedural improvement. Udacity Cybersecurity Nanodegree.
+Vulnerability scanning, password penetration testing, incident response assessment, and action planning for healthcare organization which includes detection, investigation and evidence preservation. Udacity Cybersecurity Nanodegree.
 
 
 Project Overview
