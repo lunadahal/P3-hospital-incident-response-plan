@@ -24,11 +24,11 @@ Vulnerability scanning, password penetration testing, incident response assessme
 
 ## Skills Demonstrated
 
-✅ Threat and incident analysis  
-✅ Vulnerability and password scanning  
-✅ Response workflow documentation  
-✅ Forensic evidence handling  
-✅ Technical remediation  
+Threat and incident analysis  
+Vulnerability and password scanning  
+Response workflow documentation  
+Forensic evidence handling  
+Technical remediation  
 
 
 ----
